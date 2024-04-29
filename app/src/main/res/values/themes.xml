@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ailyn Diaz
+4/19/24
+CSC ANDROID: ROOM DATABASE
+  -->
+<resources>
+    <style name="Theme.Inventory" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
