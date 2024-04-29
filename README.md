@@ -74,4 +74,4 @@ Contributions are welcome! If you want to contribute to InventoryApp-Kotlin, ple
 
 
 
-# Thank YOU for stopping by 
+# Thank YOU for stopping by 🤩🤩
