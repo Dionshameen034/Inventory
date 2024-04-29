@@ -25,7 +25,7 @@
 
 ## Description
 
-This Android application is designed to help users manage their inventory efficiently. Built with Kotlin and utilizing Room Database, it offers a seamless experience for storing and updating storage items.
+This Android application is designed to help users manage their inventory efficiently. Built with Kotlin and utilizing Room Database, it offers a seamless experience for storing and updating storage items. Using google codelabs this app was possible going through tutorials.
 
 ## Features
 
